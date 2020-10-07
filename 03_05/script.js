@@ -8,4 +8,4 @@ if ( a == b ) {
     theNumbersMatch = false;
 }
 
-console.log(theNumbersMatch);
+console.log(`The nuber is  ${theNumbersMatch}`);
